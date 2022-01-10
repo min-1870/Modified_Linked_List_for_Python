@@ -19,7 +19,7 @@ Output: None<br />
 
 ## removeAtIndex()
 This method remove the node at the index.<br />
-Big-O: O(n) b = index<br />
+Big-O: O(n) n = index<br />
 Input: int<br />
 Output: None<br />
 
