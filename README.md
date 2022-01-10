@@ -19,12 +19,12 @@ Output: None<br />
 
 ## removeAtIndex()
 This method remove the node at the index.<br />
-Big-O: O(n) n = index<br />
+Big-O: O(n)    n = index<br />
 Input: int<br />
 Output: None<br />
 
 ## removeAtIndexes()
 This method remove the nodes at multiple indexes.<br />
-Big-O: O(n) n = the biggest index in the list<br />
+Big-O: O(n)    n = the biggest index in the list<br />
 Input: list<br />
 Output: None<br />
