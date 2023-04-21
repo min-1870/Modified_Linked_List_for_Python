@@ -1,4 +1,4 @@
-# Linked-list-for-python
+# Modified_Linked_List_for_Python
 ## len()
 This method return the number of the elements in the list.<br />
 Big-O: O(1)<br />
